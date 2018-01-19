@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Crear SQLite</string>
+    <string name="txt_desconectar">Desconectar</string>
+    <string name="txt_crear_base_de_datos">crear</string>
+    <string name="txt_creacion">Creación BD SQLite</string>
+</resources>
